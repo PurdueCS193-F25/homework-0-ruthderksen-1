@@ -1,3 +1,8 @@
+# Ruth Derksen's First CS193 Homework
+- learning useful skills that will be used professionally
+- laid-back class
+- helpful while taking CS180 concurrently
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
